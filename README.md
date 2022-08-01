@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/edoradoda/landig_page/blob/main/banner.jpg)](https://edoradoda.io)
 
 <h1 align="center">Hi 👋, I'm Eduar Dorado</h1>
-<h3 align="center">A passionate developer about desing and drawing</h3>
+<h3 align="center">A passionate developer about design and drawing</h3>
 
 - 🔭 I’m currently working on **Firewall automation**
 
