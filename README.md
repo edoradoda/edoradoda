@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Eduar Dorado</h1>
 <h3 align="center">A passionate developer about design and create new projects</h3>
 
-- 🔭 I’m currently working on **Firewall automation**
+- 🔭 I’m currently working on **Firewall automation using angular and nodejs**
 
-- 🌱 I’m currently learning **Frontend web developer**
+- 🌱 I’m currently learning **UX/UI Angular and React js**
 
 - 💬 Ask me about **nodejs, angular, javascript, css, html, css-grid, flexbox**
 
